@@ -1,2 +1,3 @@
-a script to print out the absolute path name of the current working directory
-a script to display the contents list of your current directory
+- a script to print out the absolute path name of the current working directory
+- a script to display the contents list of your current directory
+- a script to take you to the home directory
