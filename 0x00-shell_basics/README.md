@@ -10,3 +10,4 @@
 - a script to delete a directory (empty directory)
 - a script to change the working directory to the previous one
 - a script to display contents in multiple directories
+- a script that displays the type of a file
