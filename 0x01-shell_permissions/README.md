@@ -3,3 +3,4 @@
 - a script that prints all the groups the current user is part of.
 - a script to change the owner of a file
 - a script to create an empty file named hello
+- a script to add execute permission to the owner of the file hello.
