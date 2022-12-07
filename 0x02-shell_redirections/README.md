@@ -8,3 +8,4 @@
 - a script that creates a file.
 - a script that writes results of a command to a file
 - a script that duplicates the last line of the file
+- a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
