@@ -6,3 +6,4 @@
 - a script that display the first 10 lines of /etc/passwd
 - a script that displays the third line of a file
 - a script that creates a file.
+- a script that writes results of a command to a file
